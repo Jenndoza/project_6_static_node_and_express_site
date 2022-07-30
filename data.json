@@ -1,0 +1,54 @@
+{
+    "projects": [
+        {
+            "id": 0, 
+            "project_name":"Random Quote Generator",
+            "description": "A program that displays a randomly selected quote each time the user clicks a button." ,
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "https://jenndoza.github.io/project1_a_random_quote_generator/" ,
+            "github_link": "https://github.com/Jenndoza/project1_a_random_quote_generator" ,
+            "image_urls": ["/static/images/0_0.png", "/static/images/0_1.png"]
+  
+        },
+        {
+            "id": 1, 
+            "project_name":"Programming Student list",
+            "description": "Created seprate pages to display student data that the user can easily navigate and view." ,
+            "technologies": ["Javascript"],
+            "live_link": "https://jenndoza.github.io/project-2-pagination-and-filtering/ " ,
+            "github_link": "https://github.com/Jenndoza/project-2-pagination-and-filtering " ,
+            "image_urls": ["/static/images/0_4.png", "/static/images/0_5.png"]
+  
+        }, 
+        {
+            "id": 2, 
+            "project_name":"Interactive Form ",
+            "description": "Created an engaging, interactive, and easy to use form. " ,
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "https://jenndoza.github.io/project_3_interactive_form/ " ,
+            "github_link": "https://github.com/Jenndoza/project_3_interactive_form " ,
+            "image_urls": ["/static/images/0_6.png", "/static/images/0_7.png"]
+  
+        }, 
+        {
+            "id": 3, 
+            "project_name":"Phrase Hunter ",
+            "description": "Created a browser-based, word guessing game. " ,
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://jenndoza.github.io/project_4_oop_game/ " ,
+            "github_link": "https://github.com/Jenndoza/project_4_oop_game " ,
+            "image_urls": ["/static/images/0_8.png", "/static/images/0_9.png"]
+  
+        },
+        {
+            "id": 4, 
+            "project_name":"Start-up Employee Directory ",
+            "description": "Used JavaScript to create an employee directory by communicating with a third-party API. " ,
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://jenndoza.github.io/project_5_student_files/ " ,
+            "github_link": "https://github.com/Jenndoza/project_5_student_files " ,
+            "image_urls": ["/static/images/0_10.png", "/static/images/0_11.png"]
+  
+        }  
+    ]
+  }
