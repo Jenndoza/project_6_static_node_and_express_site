@@ -22,6 +22,6 @@ block content
           //- The project title for the h5 element's text
 
         .cell
-          a(href=`/project/${project.id}`)
-            img.thumbnail(src=`${project.image_urls[0]}`, alt='Project_Pic')
-            h5 project.project_name
+          a(href=`/projects/${project.id}`)
+            img.thumbnail(src=`${project.image_urls[0]}`, alt='')
+            h5= project.project_name

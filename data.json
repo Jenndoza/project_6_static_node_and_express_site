@@ -7,7 +7,7 @@
             "technologies": ["HTML", "CSS", "Javascript"],
             "live_link": "https://jenndoza.github.io/project1_a_random_quote_generator/" ,
             "github_link": "https://github.com/Jenndoza/project1_a_random_quote_generator" ,
-            "image_urls": ["/static/images/0_0.png", "/static/images/0_1.png"]
+            "image_urls": ["/static/images/quote_0.png", "/static/images/0_1.png"]
   
         },
         {
