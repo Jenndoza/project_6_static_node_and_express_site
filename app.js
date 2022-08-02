@@ -23,6 +23,8 @@ app.get('/about', (req, res) => {
 //Dynamic projects route
 app.get('/projects/:id', (req, res, next) => {
     const id = +req.params.id;
+    console.log('req.params',req.params)
+    console.log(projects)
     if (projects[id]) {
         const project = projects[id];
         return res.render('project', { project });
